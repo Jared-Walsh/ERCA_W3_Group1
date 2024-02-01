@@ -8,11 +8,9 @@ The first titled "Project_Los_Latinos.pdf":
 
 The second titled: "LATINOS_Project.ipynb"
 The thrid titled "":
-    contains the dataset for the historical temperature record for Tucuman, Agretina (1991-2020)
-    accessible at: 
+    contains the dataset for the historical temperature record for Tucuman, Agretina (2023)
 
-The forth titled "":
-    contains the dataset for the modern temperature record for Tucuman, Agretina (2023)
-    accessible at:
+The forth titled "Estadisticas_normales_Datos_abiertos_1991-2020_mod.csv":
+    contains the dataset for the modern temperature record for Tucuman, Agretina (1991-2020)
     
 All figures can be located within "Project_Los_Latinos.pdf"
