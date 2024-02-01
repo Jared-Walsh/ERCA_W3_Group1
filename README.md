@@ -7,7 +7,7 @@ The first titled "Project_Los_Latinos.pdf":
     contains the written report for the data analysis of ERCA_W3_Group1
 
 The second titled: "LATINOS_Project.ipynb"
-The thrid titled "":
+The thrid titled "registro_temperatura365d_smn_mod.csv":
     contains the dataset for the historical temperature record for Tucuman, Agretina (2023)
 
 The forth titled "Estadisticas_normales_Datos_abiertos_1991-2020_mod.csv":
